@@ -1,0 +1,20 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "Test WebSocket Ver.: 1.0.0",
+  "main": "websocket_example.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "json-parser": "^3.1.2",
+    "module": "^1.2.5",
+    "mysql": "^2.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BynDROID",
+  "license": "ISC"
+}
